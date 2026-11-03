@@ -1,6 +1,6 @@
-<img src="main_logo_color_transparentbg.png" width=50% height=50%>
+<img src="main_logo_color_transparentbg.png" width=70% height=70% align="center">
 
-<img src="encart_domaines_activite.png" width=50% height=50%>
+<img src="encart_domaines_activite.png" width=70% height=70% align="center">
 
 ---
 
