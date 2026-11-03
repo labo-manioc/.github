@@ -4,8 +4,6 @@
 
 ---
 
-**Chercheur indépendant spécialisé dans l’analyse, la conception et le développement de solutions matérielles et logicielles dédiées à l’observation du vivant.**
-
 Contact : Dr. Mohan JULIEN (Labo Manioc)
 
 Domiciliation : Saint-Leu, La Réunion, France.
