@@ -8,7 +8,7 @@ Contact : Dr. Mohan JULIEN (Labo Manioc)
 
 Domiciliation : Saint-Leu, La Réunion, France.
 
-Email : mohanjulien@gmail.com
+Email : labomanioc@proton.me
 
 Website : https://labo-manioc.github.io/
 
