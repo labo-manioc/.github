@@ -1,8 +1,6 @@
-![main_logo_color_transparentbg.png](main_logo_color_transparentbg.png)
-
 <img src="main_logo_color_transparentbg.png" width=50% height=50%>
 
-![encart_domaines_activite.png](encart_domaines_activite.png)
+<img src="encart_domaines_activite.png" width=50% height=50%>
 
 ---
 
